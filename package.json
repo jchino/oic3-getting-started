@@ -1,0 +1,23 @@
+{
+  "name": "oic3-getting-started",
+  "version": "0.1.0",
+  "description": "Oracle Integration 3 入門チュートリアル",
+  "license": "UNLICENCED",
+  "homepage": "https://github.com/jchino/oic3-getting-started#readme",
+  "bugs": {
+    "url": "https://github.com/jchino/oic3-getting-started/issues"
+  },
+  "author": "日本オラクル株式会社",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jchino/oic3-getting-started.git"
+  },
+  "scripts": {
+    "serve": "honkit serve",
+    "build": "honkit build"
+  },
+  "devDependencies": {
+    "honkit": "^6.1.7"
+  },
+  "private": true
+}
