@@ -13,8 +13,8 @@
 - [4. 統合の作成](chapter4.md)
 - [5. データの取得](chapter5.md)
 - [6. ファイル連携](chapter6.md)
-- [7. 統合フローのテスト実行](chapter7.md)
-- [8. アクティベーションと外部からの実行](chapter8.md)
+- [7. 統合のテスト実行](chapter7.md)
+- [8. 統合のアクティブ化と外部からの実行](chapter8.md)
 - [9. モニタリング](chapter9.md)
 
 ## Appendix
