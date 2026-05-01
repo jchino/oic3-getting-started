@@ -2,14 +2,14 @@
 
 - [はじめに](README.md)
 
-## 基本編
+## 概要編
 
 - [1. Oracle Integration 概要](chapter1.md)
 - [2. サービス・コンソールへのアクセス](chapter2.md)
-- [3. プロジェクトの概要と作成](chapter3.md)
 
 ## チュートリアル編
 
+- [3. プロジェクトの作成](chapter3.md)
 - [4. 統合の作成](chapter4.md)
 - [5. データの取得](chapter5.md)
 - [6. ファイル連携](chapter6.md)
