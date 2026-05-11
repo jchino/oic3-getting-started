@@ -25,9 +25,11 @@
 このチュートリアルは Oracle Cloud Infrastructure (OCI) の環境とユーザー・アカウントが必要です。
 トライアル環境でも実施できる内容になっています。
 
-また、Oracle Integration の他に、OCI の次のサービスを使用します。
+Oracle Integration 3 は Standard エディションで実施可能です。
 
-- Oracle Autonomous AI Database (Always Free でも可能です)
+Oracle Integration の他に、OCI の次のサービスを使用します。
+
+- Oracle Autonomous AI Database (Always Free でも実施可能です)
 - OCI Cloud Shell
 
 このチュートリアルでは、これらのサービスの環境設定などの詳細は触れていません。
