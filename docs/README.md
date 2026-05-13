@@ -8,7 +8,10 @@
 
 このチュートリアルでは、REST API リクエストで受信した商品 ID をもとにデータベースから販売データを検索し、その結果を CSV ファイルとしてファイル・サーバーへ出力する自動化処理を作成します。
 
-![処理フロー図](./images/chapter1_processing_flow.png)
+<p>
+  <div style="text-align: center"><img alt="処理フロー図" src="./images/chapter1_processing_flow.png" style="border:1px solid #CCC"></div>
+  <div style="text-align: center">処理フロー図</div>
+</p>
 
 ## 対象読者
 
