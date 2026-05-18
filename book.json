@@ -3,5 +3,14 @@
   "title": "Oracle Integration 入門チュートリアル",
   "description": "Oracle Integration の初心者向けチュートリアル",
   "author": "日本オラクル株式会社",
-  "language": "ja"
+  "language": "ja",
+  "plugins": [
+    "intopic-toc"
+  ],
+  "pluginsConfig": {
+    "intopic-toc": {
+      "label": "このページのトピック",
+      "isCollapsed": false
+    }
+  }
 }

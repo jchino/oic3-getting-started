@@ -17,6 +17,7 @@
     "build": "honkit build"
   },
   "devDependencies": {
+    "gitbook-plugin-intopic-toc": "^1.1.1",
     "honkit": "^6.1.7"
   },
   "private": true
